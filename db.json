@@ -1,0 +1,85 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "name": "1vsaf",
+      "alterEgo": "2vasdf",
+      "id": 4
+    },
+    {
+      "name": "Joker",
+      "alterEgo": "Unknown",
+      "id": 5
+    },
+    {
+      "name": "check",
+      "alterEgo": "123",
+      "id": 6
+    },
+    {
+      "name": "e1e",
+      "alterEgo": "wdqd",
+      "id": 7
+    },
+    {
+      "name": "vdsh",
+      "alterEgo": "g233",
+      "id": 8
+    },
+    {
+      "name": "12eed",
+      "alterEgo": "fadv",
+      "id": 9
+    }
+  ],
+  "friend": [
+    {
+      "id": 1,
+      "name": "Chandler Bing"
+    },
+    {
+      "id": 2,
+      "name": "Joey Tribbiani"
+    },
+    {
+      "id": 3,
+      "name": "Rachel Green"
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "title": "Do 1"
+    },
+    {
+      "id": 2,
+      "title": "Do 2"
+    },
+    {
+      "id": 3,
+      "title": "Do 3"
+    },
+    {
+      "title": "Do 4",
+      "id": 4
+    },
+    {
+      "title": "Do Something",
+      "id": 5
+    }
+  ]
+}
